@@ -1,1 +1,2 @@
 ![image](https://github.com/raresmc/Delete-Google-Drive-Files-from-Appsheet/assets/63869650/6f2f630a-c261-4e6e-9658-e976482db127)
+<iframe width="600" height="360" src="https://www.youtube.com/embed/HM9pll5Ozbo" title="Google Apps Script: How to delete files from Google Drive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
